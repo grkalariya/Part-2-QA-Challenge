@@ -10,7 +10,7 @@ public class Main {
 	static int count2 = 0;
 
 	public static void main(String[] args) {
-		int intervalInSeconds = 5;
+		int intervalInSeconds = 10;
 		int totalExecutionTimeInSeconds = 60;
 		int totalCount = Math.round(totalExecutionTimeInSeconds/intervalInSeconds);
 		
